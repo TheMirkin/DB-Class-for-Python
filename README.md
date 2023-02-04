@@ -1,5 +1,5 @@
 
-# DB-Class-for-Python
+# DB-Mysql-Python
 
 #### Bu, veritabanı işlemlerini yapmak için bir sınıf olan "VeritabaniIslemleri" sınıfıdır. Aşağıdaki işlemleri yapabilirsiniz:
 
